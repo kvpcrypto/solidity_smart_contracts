@@ -1,4 +1,8 @@
-# UWFinTechModule20
+# Solidity Smart Contracts
+
+Created a saving account contract in solidity.
+Compiled and deployed contract.
+Deployed smart contracts are interactable with features such as deposits, withdrawals, last to withdraw and last withdraw amount.
 
 ![code](https://user-images.githubusercontent.com/61864923/207783172-4196eded-deea-49c5-8901-e3af732f0b55.png)
 
